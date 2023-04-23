@@ -105,6 +105,27 @@ lifelong passion for social justice.  Two of my recent papers are
 [here](https://arxiv.org/abs/2210.06680) and
 [here](https://arxiv.org/abs/2208.06557).
 
+*Involvement in controversial issues
+
+Whenever I've seen claims that "1 = 2," and about which I have some new points to add to the discussion,
+I've spoken out. Sometimes this has been to my detriment, but as a scholar I feel the need to inform and clarify.
+
+In the general sociopolitical realm, I've been active in my [support for Affirmative Action](https://www.significancemagazine.com/science/391-should-affirmative-action-be-replaced-with-random-selection)
+in school admissions and hiring. But my most significant impact has been on the H-1B work visa, a program that everyone 
+agrees is badly flawed but for which no good political solution has been agreed upon. My work on that issue
+led to an invitation by a major law journal to write on the topic. The [paper](https://repository.law.umich.edu/mjlr/vol36/iss4/5/), 99 pages long with over 300 footnotes, has
+had a major impact, I believe.
+
+My work on these and other isssues has led to my being quoted or cited in all
+major news outlets, print and electronic, and testimony to the US House and Senate.
+
+My writings on more academic issues are known to a smaller audience, but are probably even more 
+controversial. As mentioned above, one example is the [inappropriateness of significance
+testing](https://github.com/matloff/qeML/blob/master/inst/mdFiles/No_P_Values.md). Another, very 
+narrow but the subject of especially bitter debate in the field, is my view that the "Tidyverse" approach to
+teaching the R programming language to noncoders, actually [makes things more difficult for that
+group](https://github.com/matloff/TidyverseSkeptic).
+
 ## Thoughts on teaching 
 
 I've always been excited about teaching, and investigating how students
