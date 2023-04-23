@@ -105,7 +105,7 @@ lifelong passion for social justice.  Two of my recent papers are
 [here](https://arxiv.org/abs/2210.06680) and
 [here](https://arxiv.org/abs/2208.06557).
 
-## Issues in teaching 
+## Thoughts on teaching 
 
 I've always been excited about teaching, and investigating how students
 learn.  I've been fortunate to win a couple of teaching awards, 
@@ -119,5 +119,5 @@ Award](https://academicsenate.ucdavis.edu/sites/g/files/dgvnsk3876/files/local_r
 
 *Student admissions issues*
 
-## Research
+## Thoughts on research
 
