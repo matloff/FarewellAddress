@@ -56,7 +56,7 @@ my years here.
 
 At that time, the Math Dept. had an informal statistics subgroup.  [We
 and a couple of others](https://statistics.ucdavis.edu/history) from
-outside the department, formed the Statistics Dept. in 1979.  (It was
+outside the department formed the Statistics Dept. in 1979.  (It was
 actually called an "intercollegiate division" at that time.)
 
 However, my attention was drawn elsewhere, as the first "computer
@@ -64,7 +64,7 @@ revolution" was in full swing, and frankly, I was getting disillusioned
 by academic politics.  Thus I took a year's leave of absence and worked
 in Silicon Valley.
 
-*Statistics and Computer Science
+*Statistics and Computer Science*
 
 While on leave, I was under pressure from the Stat Dept. to decide
 whether to return.  I said yes, provided I could have a joint appointment 
