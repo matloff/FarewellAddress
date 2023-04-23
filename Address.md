@@ -12,7 +12,7 @@ interesting, maybe surprising, and possibly useful.
 
 I'll start with an overview of my history, then present some thoughts--dare
 I call them "recommendations"?--in
-teaching and research in computer science and statistics.
+teaching and research on computer science and statistics.
 
 ## Formative Years
 
@@ -40,8 +40,7 @@ I described both Tom and my days at UCLA
 Prof. Tom Ferguson and the late Prof. Olive Jean Dunn; the latter is the
 one who started me thinking about the [inappropriateness of significance
 testing](https://github.com/matloff/qeML/blob/master/inst/mdFiles/No_P_Values.md).
-I also talked a lot with the late Prof. Chuck Stone; though he was 12
-years my senior, he and I later became close friends when we moved to
+I also talked a lot with the late Prof. Chuck Stone; he and I later became close friends when we moved to
 adjoining towns in the Bay Area.
 
 ## Academic career
