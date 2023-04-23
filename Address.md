@@ -4,16 +4,16 @@
 On July 1, 2023, I will retire, after--incredibly--48 years on the
 faculty of the University of California, Davis.
 
-Just like George Washington, I will give this "Farewell Address."  It
-certainly be historical like Washington's, and it's not really a true
-farewell--I'll have an office, and intend to be active in research and
-in writing books and software--but I hope some will find it interesting,
-maybe surprising, and possibly useful.
+Just like George Washington :-) , I will give this "Farewell Address."
+It certainly won't be historical like Washington's, and it's not really
+a true farewell--I'll have an office, and intend to be active in
+research and in writing books and software--but I hope some will find it
+interesting, maybe surprising, and possibly useful.
 
 I'll start with a brief overview of my history, then address issues in
 teaching and research in computer science and statistics.
 
-## How I  got here
+## Formative Years
 
 I was born in Los Angeles, and grew up in East LA and the San Gabriel
 Valley.  
@@ -29,16 +29,79 @@ at home, with a 10-minute drive to school, and had a part-time job on
 campus.  Cal Poly was not a "powerhouse" school, but one could get an
 excellent education if one sought out the right faculty.  I had one
 professor for several Math classes who gave very challenging proofs for
-homework, and also took the bulk of my Econ classes from one particular
+homework, and I took the bulk of my Econ classes from one particular
 professor, whom I still quote to this day.
 
 I then joined the PhD program in Math at UCLA, eventually doing a
 dissertation in abstract probability theory with the late Tom Liggett.
 I described both Tom and my days at UCLA
-[here](https://tinyurl.com/ynyarcye).
+[here](https://tinyurl.com/ynyarcye).  I also was greatly influenced by
+Prof. Tom Ferguson and the late Prof. Olive Jean Dunn; the latter is the
+one who started me thinking about the [inappropriateness of significance
+testing](https://github.com/matloff/qeML/blob/master/inst/mdFiles/No_P_Values.md).
+I also talked a lot with the late Prof. Chuck Stone; though he was 12
+years my senior, he and I later became close friends when we moved to
+adjoining towns in the Bay Area.
+
+## Academic career
 
 I had always wanted an academic career, preferably in California, and
-was very pleased when the Math Dept. at UCD invited me for an interview.
-It was my first-ever plane ride!
+was very pleased when the Math Dept. at UCD invited me for an interview
+as I was finishing my PhD.  It was my first-ever plane ride!  Though I
+did start to interview elsewhere, Davis quickly made me an offer, which
+I accepted.
 
+At that time, the Math Dept. had an informal statistics subgroup.  [We
+and a couple of others](https://statistics.ucdavis.edu/history) from
+outside the department, formed the Statistics Dept. in 1979.  (It was
+actually called an "intercollegiate division" at that time.)
+
+However, my attention was drawn elsewhere, as the first "computer
+revolution" was in full swing, and frankly, I was getting disillusioned
+by academic politics.  Thus I took a year's leave of absence and worked
+in Silicon Valley.
+
+While on leave, I was under pressure from the Stat Dept. to decide
+whether to return.  I said yes, provided I could have a joint
+appointment with the Electrical and Computer Engineering (ECE) Dept.  
+(There was no Computer Science Dept. then, and by the way, no separate
+Engineering salary scale.)  The ECE Chair was very supportive, and the
+campus administration approved the request.
+
+Later I participated in the establishment of the Division of Computer
+Science within ECE, which eventually became the Computer Science Dept.
+As mentioned above, my strong desire was to have a joint appointment
+between CS and Stat.  Unfortunately, I was told that the two collegiate
+deans did not want to split a faculty slot, and I would have to choose
+between one or the other.  I chose CS.
+
+Since then, I have done research that is purely CS, such as in parallel
+computation.  However, much of my work has been in fields in which my
+stat background has played a major role, such as data security and
+machine learning.  
+
+Currently I am especially interested in the issue of Fairness in Machine
+Learning, which combines my computing and stat interests with my
+lifelong passion for social justice.  Two of my recent papers are
+[here](https://arxiv.org/abs/2210.06680) and
+[here](https://arxiv.org/abs/2208.06557).
+
+## Issues in teaching 
+
+I've always been excited about teaching, and investigating how students
+learn.  I've been fortunate to win a couple of teaching awards, 
+notably the
+[campus-wide Distinguished Teaching
+Award](https://academicsenate.ucdavis.edu/sites/g/files/dgvnsk3876/files/local_resources/docs/committees/award_committees/2017-18/dta-call.pdf
+
+I've always believed that teaching and research go hand-in-hand.  I
+believe that book, *Statistical Regession and Classification: from
+Linear Models to Machne Learning*, winner of the Ziegel Award of 2017,
+epitomizes that spirit.
+
+### Begining programming curricula
+
+### Student admissions issue
+
+## Research
 
