@@ -105,7 +105,7 @@ lifelong passion for social justice.  Two of my recent papers are
 [here](https://arxiv.org/abs/2210.06680) and
 [here](https://arxiv.org/abs/2208.06557).
 
-*Involvement in controversial issues
+*Involvement in controversial issues*
 
 Whenever I've seen claims that "1 = 2," and about which I have some new points to add to the discussion,
 I've spoken out. Sometimes this has been to my detriment, but as a scholar I feel the need to inform and clarify.
