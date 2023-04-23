@@ -92,7 +92,7 @@ that published in [ACM TODS](https://dl.acm.org/doi/abs/10.1145/174638.174641),
 led to my being appointed to IFIP WG 11.3, an international group devoted to fostering work 
 in the field. My work on [polynomials in neural networks](https://arxiv.org/abs/1806.06850)
 attracted a lot of attention in discussion groups, and has led directly to published work by
-others, such as [this paper in Neural Networks])https://www.sciencedirect.com/science/article/abs/pii/S0893608021001738?via%3Dihub).
+others, such as [this paper in Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608021001738?via%3Dihub).
 
 Currently I am especially interested in the issue of Fairness in Machine
 Learning, which combines my computing and stat interests with my
