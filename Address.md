@@ -10,7 +10,8 @@ a true farewell--I'll have an office, and intend to be active in
 research and in writing books and software--but I hope some will find it
 interesting, maybe surprising, and possibly useful.
 
-I'll start with a brief overview of my history, then address issues in
+I'll start with an overview of my history, then present some thoughts--dare
+I call them "recommendations"?--in
 teaching and research in computer science and statistics.
 
 ## Formative Years
