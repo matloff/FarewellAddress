@@ -45,11 +45,14 @@ adjoining towns in the Bay Area.
 
 ## Academic career
 
-I had always wanted an academic career, preferably in California, and
+*UC Davis!*
+
+I had always wanted an academic career, with a very strong preference for California, and
 was very pleased when the Math Dept. at UCD invited me for an interview
 as I was finishing my PhD.  It was my first-ever plane ride!  Though I
 did start to interview elsewhere, Davis quickly made me an offer, which
-I accepted.
+I accepted. I actually have been a member of four different departments during
+my years here.
 
 At that time, the Math Dept. had an informal statistics subgroup.  [We
 and a couple of others](https://statistics.ucdavis.edu/history) from
