@@ -62,9 +62,9 @@ by academic politics.  Thus I took a year's leave of absence and worked
 in Silicon Valley.
 
 While on leave, I was under pressure from the Stat Dept. to decide
-whether to return.  I said yes, provided I could have a joint
-appointment with the Electrical and Computer Engineering (ECE) Dept.  
-(There was no Computer Science Dept. then, and by the way, no separate
+whether to return.  I said yes, provided I could have a joint appointment 
+with the Electrical and Computer Engineering (ECE) Dept.  (There was no Computer 
+Science Dept. then, and by the way, no separate
 Engineering salary scale.)  The ECE Chair was very supportive, and the
 campus administration approved the request.
 
