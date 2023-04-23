@@ -64,24 +64,35 @@ revolution" was in full swing, and frankly, I was getting disillusioned
 by academic politics.  Thus I took a year's leave of absence and worked
 in Silicon Valley.
 
+*Statistics and Computer Science
+
 While on leave, I was under pressure from the Stat Dept. to decide
 whether to return.  I said yes, provided I could have a joint appointment 
 with the Electrical and Computer Engineering (ECE) Dept.  (There was no Computer 
 Science Dept. then, and by the way, no separate
 Engineering salary scale.)  The ECE Chair was very supportive, and the
-campus administration approved the request.
+campus administration approved the request, and I resumed teaching in Fall 1980.
 
 Later I participated in the establishment of the Division of Computer
-Science within ECE, which eventually became the Computer Science Dept.
-As mentioned above, my strong desire was to have a joint appointment
+Science within ECE, which eventually became the Computer Science Dept. in 1989.
+Aganin, my strong desire was to have a joint appointment
 between CS and Stat.  Unfortunately, I was told that the two collegiate
 deans did not want to split a faculty slot, and I would have to choose
 between one or the other.  I chose CS.
+
+*My research*
 
 Since then, I have done research that is purely CS, such as in parallel
 computation.  However, much of my work has been in fields in which my
 stat background has played a major role, such as data security and
 machine learning.  
+
+My work seems to have had some impact. For example, my data security research, such as
+that published in [ACM TODS](https://dl.acm.org/doi/abs/10.1145/174638.174641),
+led to my being appointed to IFIP WG 11.3, an international group devoted to fostering work 
+in the field. My work on [polynomials in neural networks](https://arxiv.org/abs/1806.06850)
+attracted a lot of attention in discussion groups, and has led directly to published work by
+others, such as [this paper in Neural Networks])https://www.sciencedirect.com/science/article/abs/pii/S0893608021001738?via%3Dihub).
 
 Currently I am especially interested in the issue of Fairness in Machine
 Learning, which combines my computing and stat interests with my
