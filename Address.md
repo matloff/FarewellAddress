@@ -94,6 +94,11 @@ in the field. My work on [polynomials in neural networks](https://arxiv.org/abs/
 attracted a lot of attention in discussion groups, and has led directly to published work by
 others, such as [this paper in Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608021001738?via%3Dihub).
 
+I've always believed that teaching and research go hand-in-hand. My book, *Statistical Regression and Classification: 
+from Linear Models to Machine Learning*, which was the recipient of the 2017 Ziegal Award, reflects that 
+spirit. Though in the form of the textbook, it contain many "mini-research snippets," material that I believe is new
+to the field.
+
 Currently I am especially interested in the issue of Fairness in Machine
 Learning, which combines my computing and stat interests with my
 lifelong passion for social justice.  Two of my recent papers are
@@ -106,16 +111,13 @@ I've always been excited about teaching, and investigating how students
 learn.  I've been fortunate to win a couple of teaching awards, 
 notably the
 [campus-wide Distinguished Teaching
-Award](https://academicsenate.ucdavis.edu/sites/g/files/dgvnsk3876/files/local_resources/docs/committees/award_committees/2017-18/dta-call.pdf
+Award](https://academicsenate.ucdavis.edu/sites/g/files/dgvnsk3876/files/local_resources/docs/committees/award_committees/2017-18/dta-call.pdf).
 
-I've always believed that teaching and research go hand-in-hand.  I
-believe that book, *Statistical Regession and Classification: from
-Linear Models to Machne Learning*, winner of the Ziegel Award of 2017,
-epitomizes that spirit.
 
-### Begining programming curricula
 
-### Student admissions issue
+*Begining programming curricula*
+
+*Student admissions issues*
 
 ## Research
 
