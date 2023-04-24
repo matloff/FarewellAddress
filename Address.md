@@ -126,7 +126,9 @@ narrow but the subject of especially bitter debate in the field, is my view that
 teaching the R programming language to noncoders, actually [makes things more difficult for that
 group](https://github.com/matloff/TidyverseSkeptic).
 
-## Thoughts on teaching 
+## Thoughts on academic computer science and the profession in general
+
+*Thoughts on teaching*
 
 I've always been excited about teaching, and investigating how students
 learn.  I've been fortunate to win a couple of teaching awards, 
@@ -140,5 +142,8 @@ Award](https://academicsenate.ucdavis.edu/sites/g/files/dgvnsk3876/files/local_r
 
 *Student admissions issues*
 
-## Thoughts on research
+*Thoughts on research*
+
+*The dark side
+
 
