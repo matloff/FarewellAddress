@@ -128,7 +128,7 @@ group](https://github.com/matloff/TidyverseSkeptic).
 
 # Thoughts on Academic Computer Science and the Profession in General
 
-## Thoughts on teaching
+## Thoughts on Teaching
 
 I've always been excited about teaching, and investigating how students
 learn.  I've been fortunate to win a couple of teaching awards, 
