@@ -14,7 +14,7 @@ I'll give an overview of my history, then present some thoughts--dare
 I call them "recommendations"?--on
 teaching and research on computer science and statistics.
 
-## Formative Years
+# Formative Years
 
 I was born in Los Angeles, and grew up in East LA and the San Gabriel
 Valley.  
@@ -43,7 +43,7 @@ testing](https://github.com/matloff/qeML/blob/master/inst/mdFiles/No_P_Values.md
 I also talked a lot with the late Prof. Chuck Stone; he and I later became close friends when we moved to
 adjoining towns in the Bay Area.
 
-## Academic career
+# Academic Career
 
 *UC Davis!*
 
@@ -126,9 +126,9 @@ narrow but the subject of especially bitter debate in the field, is my view that
 teaching the R programming language to noncoders, actually [makes things more difficult for that
 group](https://github.com/matloff/TidyverseSkeptic).
 
-## Thoughts on academic computer science and the profession in general
+# Thoughts on Academic Computer Science and the Profession in General
 
-*Thoughts on teaching*
+## Thoughts on teaching
 
 I've always been excited about teaching, and investigating how students
 learn.  I've been fortunate to win a couple of teaching awards, 
@@ -136,14 +136,20 @@ notably the
 [campus-wide Distinguished Teaching
 Award](https://academicsenate.ucdavis.edu/sites/g/files/dgvnsk3876/files/local_resources/docs/committees/award_committees/2017-18/dta-call.pdf).
 
-
-
 *Begining programming curricula*
 
 *Student admissions issues*
 
-*Thoughts on research*
+## Thoughts on Research
 
-*The dark side
+## The Dark Side of Academia
+
+## All in All..
+
+I continue to believe that being an academic is the best job in the
+world.  I've been extremely fortunate to be in this line of work, and
+thank everyone who has made it possible.
+
+
 
 
