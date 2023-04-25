@@ -126,9 +126,11 @@ narrow but the subject of especially bitter debate in the field, is my view that
 teaching the R programming language to noncoders, actually [makes things more difficult for that
 group](https://github.com/matloff/TidyverseSkeptic).
 
-# Thoughts on Academic Computer Science and the Profession in General
+# Reflections
 
-## Thoughts on Teaching
+Always, I have a few thoughts...
+
+## On Teaching
 
 I've always been excited about teaching, and investigating how students
 learn.  I've been fortunate to win a couple of teaching awards, 
@@ -140,15 +142,19 @@ Award](https://academicsenate.ucdavis.edu/sites/g/files/dgvnsk3876/files/local_r
 
 *Student admissions issues*
 
-## Thoughts on Research
+## On Research
 
-## The Dark Side of Academia
+## On the dark side of academia
 
-## All in All..
+## On the future impact of Large Language Models
+
+# Thanks
 
 I continue to believe that being an academic is the best job in the
 world.  I've been extremely fortunate to be in this line of work, and
-thank everyone who has made it possible.
+thank everyone who has made it possible.  I've been blessed with a
+wonderful family, whose love, humor and wisdom are inspiring and
+humbling.  My heartfelt thanks to all!
 
 
 
