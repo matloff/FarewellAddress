@@ -150,11 +150,11 @@ Award](https://academicsenate.ucdavis.edu/sites/g/files/dgvnsk3876/files/local_r
 
 # Thanks
 
-I continue to believe that being an academic is the best job in the
-world.  I've been extremely fortunate to be in this line of work, and
-thank everyone who has made it possible.  I've been blessed with a
-wonderful family, whose love, humor and wisdom are inspiring and
-humbling.  My heartfelt thanks to all!
+I've been blessed with a wonderful family, whose love, humor and wisdom
+are inspiring and humbling.  I continue to believe that being an
+academic is the best job in the world.  I've been extremely fortunate to
+be in this line of work, and I thank everyone who has made it possible.
+My heartfelt thanks to all!
 
 
 
