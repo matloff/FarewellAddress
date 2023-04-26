@@ -82,7 +82,7 @@ between one or the other.  I chose CS.
 
 *My research*
 
-I first published two theoretial papers based on my dissertation work, ([one in the *Annals of Probability*](https://www.jstor.org/stable/2242986) and [the other in the *Zeitschrift fur Wahscheinlichskeit*](https://www.jstor.org/stable/2242986)).
+I first published two theoretical papers based on my dissertation work, [one in the *Annals of Probability*](https://www.jstor.org/stable/2242986) and [the other in the *Zeitschrift fur Wahscheinlichskeit*](https://www.jstor.org/stable/2242986).
 
 At the same time, I served as a statistical consultant for the Kaiser Permanente medical care system. That experience led directly to [my *Biometrika* paper on the asymptotics of averaged regression functions](https://academic.oup.com/biomet/article-abstract/68/3/685/218733?redirectedFrom=fulltext) and indeed has influenced much of my subsequent work, to this day.
 
