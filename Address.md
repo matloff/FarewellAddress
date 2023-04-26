@@ -23,7 +23,7 @@ I've lived in immigrant households my entire life, complete with
 non-English languages.  My father was an immigrant from Lithuania, and
 my parents spoke Yiddish to each other (but spoke English to us kids).
 My wife is an immigrant from Hong Kong, and Cantonese is the "official
-language" in our house, including with our daughter.
+language" in our family, including with our daughter.
 
 I attended Cal Poly Pomona as a Math major and an Econ minor.  I lived
 at home, with a 10-minute drive to school, and had a part-time job on
