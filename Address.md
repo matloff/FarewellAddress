@@ -134,6 +134,8 @@ group](https://github.com/matloff/TidyverseSkeptic).
 
 As always, I have a few thoughts...
 
+Note first that my comments are meant to be general, not restricted to my own department or university. Of course, my local environment is the one with which I am the most familiar, but I believe I have had enough exposure to other departments/universities to be able to have reasonably informed views.
+
 ## On Teaching
 
 I've always been excited about teaching, and investigating how students
