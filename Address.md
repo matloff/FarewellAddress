@@ -34,8 +34,7 @@ homework, and I took the bulk of my Econ classes from one particular
 professor, whom I still quote to this day.
 
 I then joined the PhD program in Math at UCLA, eventually doing a
-dissertation in abstract probability theory with the late Tom Liggett
-([see here](https://www.jstor.org/stable/2242986) and [here](https://www.jstor.org/stable/2242986))
+dissertation in abstract probability theory with the late Tom Liggett.
 I described both Tom and my days at UCLA
 [here](https://tinyurl.com/ynyarcye).  I also was greatly influenced by
 Prof. Tom Ferguson and the late Prof. Olive Jean Dunn; the latter is the
@@ -83,7 +82,11 @@ between one or the other.  I chose CS.
 
 *My research*
 
-Since then, I have done research that is purely CS, such as in parallel
+I first published two theoretial papers based on my dissertation work, ([one in the *Annals of Probability*](https://www.jstor.org/stable/2242986) and [the other in the *Zeitschrift fur Wahscheinlichskeit*](https://www.jstor.org/stable/2242986)).
+
+At the same time, I served as a statistical consultant for the Kaiser Permanente medical care system. That experience led directly to [my *Biometrika* paper on the asymptotics of averaged regression functions](https://academic.oup.com/biomet/article-abstract/68/3/685/218733?redirectedFrom=fulltext) and indeed has influenced much of my subsequent work, to this day.
+
+Since my move to the CS Dept., I have done research that is purely CS, such as in parallel
 computation.  However, much of my work has been in fields in which my
 stat background has played a major role, such as data security and
 machine learning.  
