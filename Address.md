@@ -34,7 +34,8 @@ homework, and I took the bulk of my Econ classes from one particular
 professor, whom I still quote to this day.
 
 I then joined the PhD program in Math at UCLA, eventually doing a
-dissertation in abstract probability theory with the late Tom Liggett.
+dissertation in abstract probability theory with the late Tom Liggett
+([see here](https://www.jstor.org/stable/2242986) and [here](https://www.jstor.org/stable/2242986))
 I described both Tom and my days at UCLA
 [here](https://tinyurl.com/ynyarcye).  I also was greatly influenced by
 Prof. Tom Ferguson and the late Prof. Olive Jean Dunn; the latter is the
