@@ -128,7 +128,7 @@ group](https://github.com/matloff/TidyverseSkeptic).
 
 # Reflections
 
-Always, I have a few thoughts...
+As always, I have a few thoughts...
 
 ## On Teaching
 
