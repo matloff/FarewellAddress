@@ -136,6 +136,8 @@ As always, I have a few thoughts...
 
 Note first that my comments are meant to be general, not restricted to my own department or university. Of course, my local environment is the one with which I am the most familiar, but I believe I have had enough exposure to other departments/universities to be able to have reasonably informed views.
 
+And of course, there are likely many exceptions to these general remarks.
+
 ## On Teaching
 
 I've always been excited about teaching, and investigating how students
@@ -145,6 +147,11 @@ notably the
 Award](https://academicsenate.ucdavis.edu/sites/g/files/dgvnsk3876/files/local_resources/docs/committees/award_committees/2017-18/dta-call.pdf).
 
 *Begining programming curricula*
+
+We are not serving our lower division programming students well. We are stressing syntax and semantics much more than what should be the focus, which is the building of strong programming muscles.
+
+We also need to emphasize to students the importance of software development support infrastructure, so such as use of a debugging tool and knowledge of how search paths work.  It must be emphasized to students that they must not "erase their brains" of this material after the final exam, but instead should make active use of such material in their later courses.
+
 
 *Student admissions issues*
 
