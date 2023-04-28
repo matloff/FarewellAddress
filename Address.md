@@ -150,8 +150,6 @@ Award](https://academicsenate.ucdavis.edu/sites/g/files/dgvnsk3876/files/local_r
 
 ## On Research
 
-## On the dark side of academia
-
 ## On the future impact of Large Language Models
 
 # Thanks
