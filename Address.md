@@ -152,6 +152,9 @@ We are not serving our lower division programming students well. We are stressin
 
 We also need to emphasize to students the importance of software development support infrastructure, so such as use of a debugging tool and knowledge of how search paths work.  It must be emphasized to students that they must not "erase their brains" of this material after the final exam, but instead should make active use of such material in their later courses.
 
+*Computer systems issues*
+
+People outside the field are amazed when I tell them that most CS students could not answer questions such as "How does a computer boot up?" and "What happens if we run a program with six threads on a four-core machine?" These are not "trade school" questions, but instead rely on fundamental concepts, such as OS being a program, the role of hardware interrupts and so on. I believe that OS and other systems courses should make sure to relate their content to the real world.
 
 *Student admissions issues*
 
