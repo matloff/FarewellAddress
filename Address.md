@@ -37,13 +37,13 @@ I took my first programming course as a freshman, 1966. So I've been programming
 for almost 60 years! I loved it from the start, and find it just as much fun today as I did back then.
 
 After Cal Poly, I joined the PhD program in Math at UCLA, eventually doing a
-dissertation in abstract probability theory with the late Tom Liggett.
+dissertation in abstract probability theory with Tom Liggett.
 I described both Tom and my days at UCLA
 [here](https://tinyurl.com/ynyarcye).  I also was greatly influenced by
-Prof. Tom Ferguson and the late Prof. Olive Jean Dunn; the latter is the
+Prof. Tom Ferguson and Prof. Olive Jean Dunn; the latter is the
 one who started me thinking about the [inappropriateness of significance
 testing](https://github.com/matloff/qeML/blob/master/inst/mdFiles/No_P_Values.md).
-I also talked a lot with the late Prof. Chuck Stone; he and I later became close friends when we moved to
+I also talked a lot with Prof. Chuck Stone; he and I later became close friends when we moved to
 adjoining towns in the Bay Area.
 
 # Academic Career
