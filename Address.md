@@ -36,7 +36,7 @@ professor, whom I still quote to this day.
 I took my first programming course as a freshman, 1966. So I've been programming 
 for almost 60 years! I loved it from the start, and find it just as much fun today as I did back then.
 
-I then joined the PhD program in Math at UCLA, eventually doing a
+After Cal Poly, I joined the PhD program in Math at UCLA, eventually doing a
 dissertation in abstract probability theory with the late Tom Liggett.
 I described both Tom and my days at UCLA
 [here](https://tinyurl.com/ynyarcye).  I also was greatly influenced by
