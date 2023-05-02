@@ -1,5 +1,5 @@
 
-# Norm Matloff's Farewell Address
+# Reflections on a Life in Computer Science and Statistics: Norm Matloff
 
 On July 1, 2023, I will retire, after--incredibly--48 years on the
 faculty of the University of California, Davis.
@@ -32,6 +32,9 @@ excellent education if one sought out the right faculty.  I had one
 professor for several Math classes who gave very challenging proofs for
 homework, and I took the bulk of my Econ classes from one particular
 professor, whom I still quote to this day.
+
+I took my first programming course as a freshman, 1966. So I've been programming 
+for almost 60 years! I loved it from the start, and find it just as much fun today as I did back then.
 
 I then joined the PhD program in Math at UCLA, eventually doing a
 dissertation in abstract probability theory with the late Tom Liggett.
