@@ -169,9 +169,18 @@ I have long advocated a random lottery for school admissions, in which a thresho
 
 ## On Research
 
+At least in Computer Science, we are in a crisis:
+
+* The quality of reviewing, especially in conferences, is often atrocious. Reviewers have tunnel vision as to what kind of work is important, and often a reviewer simply does not have the expertise/insight to do a proper review.
+    For example, in the case of paper I reviewed in 2023 for an ML conference, I felt the work was good but
+
 ## On the Dark Side of Academia
 
-When I first began at Davis, a senior colleague advised me, "Form over substance, that's how the system works." If anything, it's worse today. Actions are often taken that ostensibly improve teaching or research, while actually having no real impact, or even a negative one. And too many committees decide on the basis of personal or other extraneous conditions rather than what is good for the university students and faculty. Quite often there is an appalling lack of transparency.  
+When I first began at Davis, a senior colleague advised me, "Form over substance, that's how the system works."
+And nearly a century ago, when President Herbert Hoover was asked why he left Stanford to serve as President,'
+he joked, "Because I wanted to get out of politics."
+
+If anything, it's worse today. Actions are often taken that ostensibly improve teaching or research, while actually having no real impact, or even a negative one. And too many committees decide on the basis of personal or other extraneous conditions rather than what is good for the university students and faculty. Quite often there is an appalling lack of transparency.  
 
 I served on the academic Senate Privilege and Tenure Committee,              
 including two years as chair. I saw many cases of egregiously unfair treatment,
