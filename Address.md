@@ -161,6 +161,12 @@ People outside the field are amazed when I tell them that most CS students could
 
 *Student admissions issues*
 
+It's taken as an article of Faith among progressives that one must oppose the use of standardized tests especially for school admissions.  If one doesn't toe tell that line, one is viewed as lacking sympathy for underrepresented minorities. The SAT is correlated with family income, they say, and that is supposed to end the discussion.
+
+The SAT is far from perfect, but it does contain important information.  As to the wealth connection, that is easily solved by having admissions committees scale the SAT score relative to family income. 
+
+I have long advocated a random lottery for school admissions, in which a threshold would be set based on test scores and grades, and admission being done randomly from the resulting pool. The threshold would be set at a level deemed necessary for doing good work at that institution.
+
 ## On Research
 
 ## On the Dark Side of Academia
