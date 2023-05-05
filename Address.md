@@ -149,6 +149,12 @@ notably the
 [campus-wide Distinguished Teaching
 Award](https://academicsenate.ucdavis.edu/sites/g/files/dgvnsk3876/files/local_resources/docs/committees/award_committees/2017-18/dta-call.pdf).
 
+*Class size*
+
+We are being asked to teach larger and larger classes. This is rationalized by having smaller discussion sections, but even they are getting larger. The quality of instruction suffers.
+
+One of the many negative consequences of large class sizes is that examination rely increasingly on rote memorization rather than measurement of true insight. The rote approach is easier to grade, but the message is sent to students that memorization is what counts, not insight.
+
 *Begining programming curricula*
 
 We are not serving our lower division programming students well. We are stressing syntax and semantics much more than what should be the focus, which is the building of strong programming muscles.
