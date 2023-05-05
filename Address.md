@@ -163,7 +163,27 @@ People outside the field are amazed when I tell them that most CS students could
 
 ## On Research
 
+## On the Dark Side of Academia
+
+When I first began at Davis, a senior colleague advised me, "Form over substance, that's how the system works." If anything, it's worse today. Actions are often taken that ostensibly improve teaching or research, while actually having no real impact, or even a negative one. And too many committees decide on the basis of personal or other extraneous conditions rather than what is good for the university students and faculty. Quite often there is an appalling lack of transparency.  
+
+I served on the academic Senate Privilege and Tenure Committee,              
+including two years as chair. I saw many cases of egregiously unfair treatment,
+sometimes vindictive, often heartbreaking. And there are many, many cases that,
+though less extreme in severity and not presented to the committee, have major
+adverse impacts on the victims.
+
+It's unclear how to solve this problem in general, but improved transparency would be 
+at the top of the list of remedies.
+
 ## On the future impact of Large Language Models
+
+My view on this is mostly positive.
+
+I believe they are currently less useful for teach matter than is generally thought.  ChatGPT is pretty good at writing code, but often lacking in being able to "see the big picture." See my
+essay, (Like College Students, ChatGPT Finds Statistics Difficult)[https://magazine.amstat.org/blog/2023/04/01/chatgpt-finds-statistics-difficult/]. Version 4 seems equally weak.
+
+
 
 # Thanks
 
