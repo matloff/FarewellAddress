@@ -161,6 +161,19 @@ One of the many negative consequences of large class sizes is that examination r
 
 We are not serving our lower division programming students well. We are stressing syntax and semantics much more than what should be the focus, which is the building of strong programming muscles.
 
+Thus I recommend Python as a first language, due to it's not being
+strongly-typed.  Variable types are distractions from developing
+algorithms.
+
+Programming assignments in an introductory sequence should be
+progressively more elaborate, with progressively less scaffolding.
+The latter is key; I tell my students, "If you've never had the
+experience of sitting down to write code and and thought, 'Hmm...how do
+I even start?', then you've never had a chance to develop strong coding
+skills."  Of course, hints should be doled out (sparingly) according to
+individual student needs, but giving outlines in the assignment
+statement should be avoided.
+
 We also need to emphasize to students the importance of software development support infrastructure, so such as use of a debugging tool and knowledge of how search paths work.  It must be emphasized to students that they must not "erase their brains" of this material after the final exam, but instead should make active use of such material in their later courses.
 
 *Computer systems issues*
