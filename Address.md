@@ -218,9 +218,9 @@ at the top of the list of remedies.
 
 ## On the future impact of Large Language Models
 
-My view on this is mostly positive.
+My view on this is mostly positive, but with a few societal concerns and so on.
 
-I believe they are currently less useful for teach matter than is generally thought.  ChatGPT is pretty good at writing code, but often lacking in being able to "see the big picture." See my
+I believe they are currently less useful than is generally thought.  ChatGPT is pretty good at writing code, but often lacking in being able to "see the big picture." See my
 essay, (Like College Students, ChatGPT Finds Statistics Difficult)[https://magazine.amstat.org/blog/2023/04/01/chatgpt-finds-statistics-difficult/]. Version 4 seems equally weak.
 
 
