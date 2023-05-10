@@ -155,7 +155,7 @@ colleagues have also won that award over the years.
 
 We are being asked to teach larger and larger classes. This is rationalized by having smaller discussion sections, but even they are getting larger. The quality of instruction suffers.
 
-One of the many negative consequences of large class sizes is that examinations rely increasingly on rote memorization rather than measurement of true insight. The rote approach is easier to grade, but the message is sent to students that memorization is what counts, not insight.
+One of the many negative consequences of large class sizes is that examination rely increasingly on rote memorization rather than measurement of true insight. The rote approach is easier to grade, but the message is sent to students that memorization is what counts, not insight.
 
 *Begining programming curricula*
 
@@ -174,7 +174,7 @@ skills."  Of course, hints should be doled out (sparingly) according to
 individual student needs, but giving outlines in the assignment
 statement should be avoided.
 
-We also need to emphasize the importance of software development support infrastructure, so such as use of a debugging tool and knowledge of how search paths work.  It must be emphasized to students that they must not "erase their brains" after the final exam, but instead should make active use of such material in their later courses.
+We also need to emphasize to students the importance of software development support infrastructure, so such as use of a debugging tool and knowledge of how search paths work.  It must be emphasized to students that they must not "erase their brains" of this material after the final exam, but instead should make active use of such material in their later courses.
 
 *Computer systems issues*
 
@@ -228,9 +228,9 @@ at the top of the list of remedies.
 
 ## On the future impact of Large Language Models
 
-My view on this is mostly positive, but with a few societal concerns and so on.
+My view on this is mostly positive.
 
-I believe they are currently less useful than is generally thought.  ChatGPT is pretty good at writing code, but often lacking in being able to "see the big picture." See my
+I believe they are currently less useful for teach matter than is generally thought.  ChatGPT is pretty good at writing code, but often lacking in being able to "see the big picture." See my
 essay, (Like College Students, ChatGPT Finds Statistics Difficult)[https://magazine.amstat.org/blog/2023/04/01/chatgpt-finds-statistics-difficult/]. Version 4 seems equally weak.
 
 
