@@ -227,7 +227,7 @@ I served on the academic Senate Privilege and Tenure Committee, including two ye
 I saw many cases of egregiously unfair treatment, sometimes vindictive, often heartbreaking. 
 And there are many, many cases that, though less extreme in severity and not presented to the 
 committee, have major adverse impacts on the victims. In some cases, such machinations by
-faculty are done in alliance with department office staff.
+faculty are done in collusion with department office staff.
 
 It's unclear how to solve this problem in general, but improved transparency would be 
 at the top of the list of remedies.
