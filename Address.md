@@ -212,7 +212,8 @@ At least in Computer Science, we are in a crisis:
   colleagues.  
   
   This may be related to the CS emphasis on funded
-  research.
+  research. Whatever the reason, it results in many
+  missed opportunities.
 
 ## On the Dark Side of Academia
 
