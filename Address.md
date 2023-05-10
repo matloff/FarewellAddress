@@ -194,7 +194,7 @@ I have long advocated a random lottery for school admissions, in which a thresho
 At least in Computer Science, we are in a crisis:
 
 * The quality of reviewing, especially in conferences, is often atrocious. Reviewers have tunnel vision as to what kind of work is important, and often a reviewer simply does not have the expertise/insight to do a proper review.
-    For example, in the case of paper I reviewed in 2023 for an ML conference, I felt the work was good but did not go far enough; I gave it a Weak Accept rating. The second reviewer said, "Not enough examples," and rated the work as Strong Reject, which I believe stemmed from the reviewer's not having the background needed to assess the work. 
+    For example, in the case of paper I reviewed in 2023 for an ML conference, I felt the work was good but did not go far enough; I gave it a Weak Accept rating. The second reviewer merely said, "Not enough examples," and rated the work as Strong Reject, which in my view stemmed from the reviewer's not having the background needed to assess the work. Frankly, the reviewer's statement about examples was just an excuse, I believe.
     In my experience, that kind of incident occurs quite frequenty. Journal reviewing is somewhat better. I would recommend de-emphasizing conference work.
     
 * There's often too much emphasis on quantity instead of quality.  The old joke that "Deans can't read but they can count" seems to apply more and more to faculty voting on advancements as well.
