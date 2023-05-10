@@ -222,11 +222,11 @@ he joked, "Because I wanted to get out of politics."
 
 If anything, it's worse today. Actions are often taken that ostensibly improve teaching or research, while actually having no real impact, or even a negative one. And too many committees decide on the basis of personal or other extraneous conditions rather than what is good for the university students and faculty. Quite often there is an appalling lack of transparency.  
 
-I served on the academic Senate Privilege and Tenure Committee,              
-including two years as chair. I saw many cases of egregiously unfair treatment,
-sometimes vindictive, often heartbreaking. And there are many, many cases that,
-though less extreme in severity and not presented to the committee, have major
-adverse impacts on the victims.
+I served on the academic Senate Privilege and Tenure Committee, including two years as chair. 
+I saw many cases of egregiously unfair treatment, sometimes vindictive, often heartbreaking. 
+And there are many, many cases that, though less extreme in severity and not presented to the 
+committee, have major adverse impacts on the victims. In some cases, such machinations by
+faculty are done in alliance with department office staff.
 
 It's unclear how to solve this problem in general, but improved transparency would be 
 at the top of the list of remedies.
