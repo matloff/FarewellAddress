@@ -182,7 +182,7 @@ People outside the field are amazed when I tell them that most CS students could
 
 *Student admissions issues*
 
-It's taken as an article of Faith among progressives that one must oppose the use of standardized tests especially for school admissions.  If one doesn't toe tell that line, one is viewed as lacking sympathy for underrepresented minorities. The SAT is correlated with family income, they say, and that is supposed to end the discussion.
+It's taken as an article of faith among progressives that one must oppose the use of standardized tests especially for school admissions.  If one doesn't toe tell that line, one is viewed as lacking sympathy for underrepresented minorities. The SAT is correlated with family income, they say, and that is supposed to end the discussion.
 
 The SAT is far from perfect, but it does contain important information.  As to the wealth connection, that is easily solved by having admissions committees scale the SAT score relative to family income. 
 
@@ -198,6 +198,16 @@ At least in Computer Science, we are in a crisis:
     
 * There's often too much emphasis on quantity instead of quality.  The old joke that "Deans can't read but they can count" seems to apply more and more to faculty voting on advancements as well.
     There have been proposals that in review of faculty in advancement cases, the candidate submits his/her 5 (or whatever number) best papers for consideration. I believe such a policy is urgently needed.
+
+* I've not made an analysis of other departments, but it appears to me
+  that at least in the case of my own department, there is less
+  intradepartmental (as opposed to *inter*departmental) research
+  collaboration in CS than, say, in Statistics. In my case, I had hoped
+  to be the "resident statistician" in CS, leading to a lot of
+  collaboration with my CS colleagues.  This turned out not to be the
+  case in recent years, and I see rather little joint work among other
+  colleagues.  This may be related to the CS emphasis on funded
+  research.
 
 ## On the Dark Side of Academia
 
