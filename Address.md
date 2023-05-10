@@ -63,7 +63,8 @@ outside the department formed the Statistics Dept. in 1979.  (It was
 actually called an "intercollegiate division" at that time.)
 
 However, my attention was drawn elsewhere, as the first "computer
-revolution" was in full swing, and frankly, I was getting disillusioned
+revolution" was in full swing, and as noted, I had always loved 
+developing software. In addition, frankly, I was getting disillusioned
 by academic politics.  Thus I took a year's leave of absence and worked
 in Silicon Valley.
 
@@ -155,7 +156,7 @@ colleagues have also won that award over the years.
 
 We are being asked to teach larger and larger classes. This is rationalized by having smaller discussion sections, but even they are getting larger. The quality of instruction suffers.
 
-One of the many negative consequences of large class sizes is that examination rely increasingly on rote memorization rather than measurement of true insight. The rote approach is easier to grade, but the message is sent to students that memorization is what counts, not insight.
+One of the many negative consequences of large class sizes is that examinations rely increasingly on rote memorization rather than measurement of true insight. The rote approach is easier to grade, but the message is sent to students that memorization is what counts, not insight.
 
 *Begining programming curricula*
 
@@ -174,7 +175,7 @@ skills."  Of course, hints should be doled out (sparingly) according to
 individual student needs, but giving outlines in the assignment
 statement should be avoided.
 
-We also need to emphasize to students the importance of software development support infrastructure, so such as use of a debugging tool and knowledge of how search paths work.  It must be emphasized to students that they must not "erase their brains" of this material after the final exam, but instead should make active use of such material in their later courses.
+We also need to emphasize the importance of software development support infrastructure, so such as use of a debugging tool and knowledge of how search paths work.  It must be emphasized to students that they must not "erase their brains" of this material after the final exam, but instead should make active use of such material in their later courses.
 
 *Computer systems issues*
 
@@ -199,14 +200,18 @@ At least in Computer Science, we are in a crisis:
 * There's often too much emphasis on quantity instead of quality.  The old joke that "Deans can't read but they can count" seems to apply more and more to faculty voting on advancements as well.
     There have been proposals that in review of faculty in advancement cases, the candidate submits his/her 5 (or whatever number) best papers for consideration. I believe such a policy is urgently needed.
 
-* I've not made an analysis of other departments, but it appears to me
-  that at least in the case of my own department, there is less
+* It appears to me, based both 
+  in the case of my own department and some observations of others, there is less
   intradepartmental (as opposed to *inter*departmental) research
-  collaboration in CS than, say, in Statistics. In my case, I had hoped
+  collaboration in CS than, say, in Statistics. 
+  
+  In my case, I had hoped
   to be the "resident statistician" in CS, leading to a lot of
   collaboration with my CS colleagues.  This turned out not to be the
   case in recent years, and I see rather little joint work among other
-  colleagues.  This may be related to the CS emphasis on funded
+  colleagues.  
+  
+  This may be related to the CS emphasis on funded
   research.
 
 ## On the Dark Side of Academia
