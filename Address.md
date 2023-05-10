@@ -98,9 +98,13 @@ machine learning.
 My work seems to have had some impact. For example, my data security research, such as
 that published in [ACM TODS](https://dl.acm.org/doi/abs/10.1145/174638.174641),
 led to my being appointed to IFIP WG 11.3, an international group devoted to fostering work 
-in the field. My work on [polynomials in neural networks](https://arxiv.org/abs/1806.06850)
+in the field. 
+
+Our work on [polynomials in neural networks](https://arxiv.org/abs/1806.06850)
 attracted a lot of attention in discussion groups, and has led directly to published work by
-others, such as [this paper in Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608021001738?via%3Dihub).
+others, such as [this paper in Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608021001738?via%3Dihub); we started a new field!
+
+Similarly, a number of my papers have led to citations (or citations of citations etc.) that continue to the present time.
 
 I've always believed that teaching and research go hand-in-hand. My book, *Statistical Regression and Classification: 
 from Linear Models to Machine Learning*, which was the recipient of the 2017 Ziegal Award, reflects that 
