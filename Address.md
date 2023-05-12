@@ -187,7 +187,7 @@ People outside the field are amazed when I tell them that most CS students could
 
 *Student admissions issues*
 
-It's taken as an article of faith among progressives that one must oppose the use of standardized tests especially for school admissions.  If one doesn't toe tell that line, one is viewed as lacking sympathy for underrepresented minorities. The SAT is correlated with family income, they say, and that is supposed to end the discussion.
+It's taken as an article of faith among progressives that one must oppose the use of standardized tests for school admissions.  If one doesn't toe that line, one is viewed as lacking sympathy for underrepresented minorities. The SAT is correlated with family income, they say, and that is supposed to end the discussion.
 
 I disagree. I regard myself as a progressive, especially in the areas of race, gender and poverty. I am a supporter of Affirmative Action, and in fact chaired our campus Affirmative Action Committee for a couple of years. But the SAT is a valuable tool, and should be retained.
 
