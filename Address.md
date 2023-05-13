@@ -191,7 +191,9 @@ It's taken as an article of faith among progressives that one must oppose the us
 
 I disagree. I regard myself as a progressive, especially in the areas of race, gender and poverty. I am a supporter of Affirmative Action, and in fact chaired our campus Affirmative Action Committee for a couple of years. But the SAT is a valuable tool, and should be retained.
 
-The SAT is far from perfect, but it does contain important information, only some of which is reflected in college grades.  As to the wealth connection, even the critics concede that the effect is [very mild](https://budgetmodel.wharton.upenn.edu/issues/2021/9/28/is-income-implicit-in-measures-of-student-ability), and defenders of the SAT cite other research and the stellar performance of many East Asian or East European children of[working-class
+The SAT is far from perfect, but it does contain important information, only some of which is reflected in college grades.  Other faculty have reported concrete evidence that student quality has deteriorated subsequent to UCD's dropping the SAT/ACT admissions requirement. They've had to make their courses shallower, ceasing to teach certain topics that worked in the past but now today.
+
+As to the wealth connection, even the critics concede that the effect is [very mild](https://budgetmodel.wharton.upenn.edu/issues/2021/9/28/is-income-implicit-in-measures-of-student-ability), and defenders of the SAT cite other research and the stellar performance of many East Asian or East European children of[working-class
 immigrants](https://www.refinery29.com/en-us/2019/03/228192/stuyvesant-high-school-black-asian-students),
 despite poverty.
 
@@ -199,6 +201,16 @@ Aside from equity issues, a major concern is the ever-escalating "arms race" for
 the system.
 
 Accordingly, I have long advocated a random lottery for school admissions, in which a threshold would be set based on test scores and grades, and admission being done randomly from the resulting pool. The threshold would be set at a level deemed necessary for doing good work at that institution.
+
+*"Kids today"*
+
+Ever since Socrates, teachers have complained about reduced student quality.  But
+independent of the SAT issues I discussed above, there is something much more 
+fundamental--an unwillingness to think about some topic *really intensely*, for an
+extended period of time. University students have always treated Teaching Assistants as
+a First Resort rather than a Last one, essentially expecting full solutions from a
+TA rather than the TA merely pointing them in the right direction. This is a serious problem
+for our economy, society and so on.
 
 ## On Research
 
