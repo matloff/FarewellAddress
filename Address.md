@@ -21,6 +21,7 @@ I'll touch on the following:
 * reserch interests and accomplishments
 * some "recommendations," on subjects such as:
     - teaching of computer science and statistics
+    - the research process and norms
     - research assessment
     - school admissions policies
     - K-12 math education
@@ -231,12 +232,7 @@ put the term in parentheses, because the courses, such as the one used in the LA
 * The de-emphasis on number facts, the 6+9 and 5 X 8 nuts and bolts.
 I've always believed that education should emphasize insight rather than rote memorization, but facility with number facts is crucial for having "a feel" for numbers.
 
-This sometimes has resulted in the bizarre.  Consider [this passage of from an interview of Sal Khan, founder of the Khan Academy](https://www.educationnext.org/californias-new-math-framework-doesnt-add-up/):
-
-> I visited a school in the Bronx a few months ago, and they were working
-> on exponent properties like: two cubed, to the seventh power. So, you 
-> multiply the exponents, and it would be two to 21st power. But the kids
-> would get out the calculator to find out three times seven.
+This sometimes has resulted in the bizarre.  Consider [this interview of Sal Khan, founder of the Khan Academy](https://www.educationnext.org/californias-new-math-framework-doesnt-add-up/). Khan finds the kids can do an intricate algebraic operation yet then need a calculator to cmplete it!
 
 The San Francisco Unified School District (SFUSD) has been implementing such "reforms" the last few years, with disastrous results in the statewide math tests: Scores for low-socioeconomic status (low-SES) children declined after the new curriculum was implemented, while scores for low-SES California kids statewide were rising.
 
