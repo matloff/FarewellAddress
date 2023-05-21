@@ -90,7 +90,7 @@ I first published two theoretical papers based on my dissertation work, [one in 
 
 At the same time, I served as a statistical consultant for the Kaiser Permanente medical care system. That experience led directly to [my *Biometrika* paper on the asymptotics of averaged regression functions](https://academic.oup.com/biomet/article-abstract/68/3/685/218733?redirectedFrom=fulltext) and indeed has influenced much of my subsequent work, to this day.
 
-Since my move to the CS Dept., I have done research that is purely CS, such as in parallel
+Since my move to the CS Dept., some of my work has been purely CS, such as in parallel
 computation.  However, much of my work has been in fields in which my
 stat background has played a major role, such as data security and
 machine learning.  
