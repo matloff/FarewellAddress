@@ -14,11 +14,8 @@ I'll touch on the following:
 
 * family background and my formative years
 * some "recommendations," on subjects such as:
-
 - teaching and research on computer science and statistics
-
 - school admissions policies
-
 - K-12 math education
 
 # Formative Years
