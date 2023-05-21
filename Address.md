@@ -204,13 +204,10 @@ Accordingly, I have long advocated a random lottery for school admissions, in wh
 
 *"Kids today"*
 
-Ever since Socrates, teachers have complained about reduced student quality.  But
-independent of the SAT issues I discussed above, there is something much more 
-fundamental--an unwillingness to think about some topic *really intensely*, for an
-extended period of time. University students have always treated Teaching Assistants as
-a First Resort rather than a Last one, essentially expecting full solutions from a
-TA rather than the TA merely pointing them in the right direction. This is a serious problem
-for our economy, society and so on.
+Ever since Socrates, teachers have complained about reduced student quality.  One must also treat such claims with a healthy dose of skepticism/
+
+But I think there is something much more fundamental--an unwillingness to think about some topic *really intensely*, for an
+extended period of time. University students have always treated Teaching Assistants asa First Resort rather than a Last one, essentially expecting full solutions from aTA rather than the TA merely pointing them in the right direction. This is a serious problemfor our economy, society and so on.
 
 ## On Research
 
