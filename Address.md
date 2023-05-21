@@ -13,9 +13,6 @@ interesting, maybe surprising, and possibly useful.
 I'll touch on the following:
 
 * family background and my formative years
-
-then present some thoughts--dare
-I call them 
 * some "recommendations," on subjects such as:
 
 - teaching and research on computer science and statistics
