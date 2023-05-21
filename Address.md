@@ -12,7 +12,13 @@ interesting, maybe surprising, and possibly useful.
 
 I'll touch on the following:
 
-* family background and my formative years
+* my formative years and early career
+    - immigrant connections
+    - study at a commuter college
+    - grad school
+    - on to UCD
+    - move from stat to CS/stat
+* reserch interests and accomplishments
 * some "recommendations," on subjects such as:
     - teaching of computer science and statistics
     - research assessment
