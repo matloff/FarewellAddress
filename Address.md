@@ -79,7 +79,7 @@ campus administration approved the request, and I resumed teaching in Fall 1980.
 
 Later I participated in the establishment of the Division of Computer
 Science within ECE, which eventually became the Computer Science Dept. in 1989.
-Aganin, my strong desire was to have a joint appointment
+Again, my strong desire was to have a joint appointment
 between CS and Stat.  Unfortunately, I was told that the two collegiate
 deans did not want to split a faculty slot, and I would have to choose
 between one or the other.  I chose CS.
