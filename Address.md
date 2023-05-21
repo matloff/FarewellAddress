@@ -200,14 +200,13 @@ despite poverty.
 Aside from equity issues, a major concern is the ever-escalating "arms race" for admissions to the elite schools.  Ultrafine examinations of grades and test scores makes no sense, and frankly I see a lot of gaming 
 the system.
 
-Accordingly, I have long advocated a random lottery for school admissions, in which a threshold would be set based on test scores and grades, and admission being done randomly from the resulting pool. The threshold would be set at a level deemed necessary for doing good work at that institution.
+Accordingly, I have long advocated a random lottery for school admissions, in which a threshold would be set based on test scores and grades, and admission being done randomly from the resulting pool. The threshold would be set at a level deemed necessary for doing good work at that institution. This would ameliorate the "arms race" problem, I believe, and would recognize the numerics are imperfect measures at best.
 
 *"Kids today"*
 
 Ever since Socrates, teachers have complained about reduced student quality.  One must also treat such claims with a healthy dose of skepticism/
 
-But I think there is something much more fundamental--an unwillingness to think about some topic *really intensely*, for an
-extended period of time. University students have always treated Teaching Assistants asa First Resort rather than a Last one, essentially expecting full solutions from aTA rather than the TA merely pointing them in the right direction. This is a serious problemfor our economy, society and so on.
+But I think there is something much more fundamental--a declining willingness to think about some topic *really intensely*, for an extended period of time. University students have always treated Teaching Assistants asa First Resort rather than a Last one, essentially expecting full solutions from a TA rather than the TA merely pointing them in the right direction. Many instructors implicitly encourage this, which I regard as a serious problem for our economy, society and so on.
 
 ## On Research
 
