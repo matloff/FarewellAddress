@@ -6,7 +6,7 @@ faculty of the University of California, Davis.
 
 Just like George Washington :-) , I will give this "Farewell Address."
 It certainly won't be historical like Washington's, and it's not really
-a true farewell--I'll have an office, and intend to be active in
+a true farewell--I'll have an office, and intend to continue to be active in
 research and in writing books and software--but I hope some will find it
 interesting, maybe surprising, and possibly useful.
 
