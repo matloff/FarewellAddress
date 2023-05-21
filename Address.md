@@ -10,14 +10,19 @@ a true farewell--I'll have an office, and intend to continue to be active in
 research and in writing books and software--but I hope some will find it
 interesting, maybe surprising, and possibly useful.
 
-I'll give an overview of my history, then present some thoughts--dare
-I call them "recommendations"?--on subjects such as:
+I'll touch on the following:
 
-* teaching and research on computer science and statistics
+* family background and my formative years
 
-* school admissions policies
+then present some thoughts--dare
+I call them 
+* some "recommendations," on subjects such as:
 
-* K-12 math education
+- teaching and research on computer science and statistics
+
+- school admissions policies
+
+- K-12 math education
 
 # Formative Years
 
