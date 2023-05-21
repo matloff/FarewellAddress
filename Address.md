@@ -208,6 +208,28 @@ Ever since Socrates, teachers have complained about reduced student quality.  On
 
 But I think there is something much more fundamental--a declining willingness to think about some topic *really intensely*, for an extended period of time. University students have always treated Teaching Assistants asa First Resort rather than a Last one, essentially expecting full solutions from a TA rather than the TA merely pointing them in the right direction. Many instructors implicitly encourage this, which I regard as a serious problem for our economy, society and so on.
 
+*K-12 math education*
+
+In the last few years there has been an alarming trend in US K-12 math education, especially in big cities, of diluting curricula in the name of "equity."  The result of course has been that the very children this supposedly is aimed to help, our most vulnerable are harmed instead.  As a lifelong passionate advocate of improving conditions for the underserved in our society, this greatly pains me.
+
+Two aspects are especially concerning: 
+
+* The push to have students take "data science" instead of Algebra 2.  I
+put the term in parentheses, because the courses, such as the one used in the LA Unified School District, are very thin.  Even worse, the notion that "data science" could be taught to students who are not familiar with the slope of a line is sadly absurd.
+
+* The de-emphasis on number facts, the 6+9 and 5 X 8 nuts and bolts.
+I've always believed that education should emphasize insight rather than rote memorization, but facility with number facts is crucial for having "a feel" for numbers.
+
+This sometimes has resulted in the bizarre.  Consider [this passage of from an interview of Sal Khan, founder of the Khan Academy](https://www.educationnext.org/californias-new-math-framework-doesnt-add-up/):
+
+> I visited a school in the Bronx a few months ago, and they were working
+> on exponent properties like: two cubed, to the seventh power. So, you 
+> multiply the exponents, and it would be two to 21st power. But the kids
+> would get out the calculator to find out three times seven.
+
+The San Francisco Unified School District (SFUSD) has been implementing such "reforms" the last few years, with disastrous results in the statewide math tests: Scores for low-socioeconomic status (low-SES) children declined after the new curriculum was implemented, while scores for low-SES California kids statewide were rising.
+
+
 ## On Research
 
 At least in Computer Science, we are in a crisis:
