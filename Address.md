@@ -128,7 +128,7 @@ agrees is badly flawed but for which no good political solution has been agreed 
 led to an invitation by a major law journal to write on the topic. The [paper](https://repository.law.umich.edu/mjlr/vol36/iss4/5/), 99 pages long with over 300 footnotes, has
 had a major impact, I believe.
 
-My work on these and other isssues has led to my being quoted or cited in all
+My work on these and various other isssues has led to my being quoted or cited in all
 major news outlets, print and electronic, and testimony to the US House and Senate.
 
 My writings on more academic issues are known to a smaller audience, but are probably even more 
@@ -158,7 +158,7 @@ colleagues have also won that award over the years.
 
 *Class size*
 
-We are being asked to teach larger and larger classes. This is rationalized by having smaller discussion sections, but even they are getting larger. The quality of instruction suffers.
+We are being asked to teach larger and larger classes. This is rationalized by having "small" discussion sections, but even they are getting larger. The quality of instruction suffers.
 
 One of the many negative consequences of large class sizes is that examinations rely increasingly on rote memorization rather than measurement of true insight. The rote approach is easier to grade, but the message is sent to students that memorization is what counts, not insight.
 
