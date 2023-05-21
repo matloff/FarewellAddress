@@ -11,8 +11,13 @@ research and in writing books and software--but I hope some will find it
 interesting, maybe surprising, and possibly useful.
 
 I'll give an overview of my history, then present some thoughts--dare
-I call them "recommendations"?--on
-teaching and research on computer science and statistics.
+I call them "recommendations"?--on subjects such as:
+
+* teaching and research on computer science and statistics
+
+* school admissions policies
+
+* K-12 math education
 
 # Formative Years
 
