@@ -113,7 +113,7 @@ in the field.
 
 Our work on [polynomials in neural networks](https://arxiv.org/abs/1806.06850)
 attracted a lot of attention in discussion groups, and has led directly to published work by
-others, such as [this paper in Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608021001738?via%3Dihub); we started a new field! Similarly, a number of my papers have startedchains of citations (i.e. citations of citations etc.) that continue to the present time. The aforementioned *Biometrika* paper is of that nature.
+others, such as [this paper in Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608021001738?via%3Dihub); we started a new field! Similarly, a number of my papers have started chains of citations (i.e. citations of citations etc.) that continue to the present time. The aforementioned *Biometrika* paper is of that nature.
 
 I've always believed that teaching and research go hand-in-hand. My book, *Statistical Regression and Classification: 
 from Linear Models to Machine Learning*, which was the recipient of the 2017 Ziegal Award, reflects that 
