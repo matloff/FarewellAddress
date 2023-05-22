@@ -54,7 +54,7 @@ I described both Tom and my days at UCLA
 [here](https://tinyurl.com/ynyarcye).  I also was greatly influenced by
 Prof. Tom Ferguson and Prof. Olive Jean Dunn; the latter is the
 one who started me thinking about the [inappropriateness of significance
-testing](https://github.com/matloff/qeML/blob/master/inst/mdFiles/No_P_Values.md), about which I've been writing (some would say "harping"!) throughout my career I also talked a lot with Prof. Chuck Stone; he and I later became close friends when we moved to
+testing](https://github.com/matloff/qeML/blob/master/inst/mdFiles/No_P_Values.md), about which I've been writing (some would say "harping"!) throughout my career. I also talked a lot with Prof. Chuck Stone; he and I later became close friends when we moved to
 adjoining towns in the Bay Area.
 
 # Academic Career
