@@ -229,7 +229,7 @@ put the term in parentheses, because the courses, such as the one used in the LA
 * The de-emphasis on number facts, the 6+9 and 5 X 8 nuts and bolts:
 I've always believed that education should emphasize insight rather than rote memorization, but facility with number facts is crucial for having "a feel" for numbers--the large and the small, approximate computation and so on. We're producing students who won't know they're being shortchanged by a store cleark!
 
-This sometimes has resulted in the bizarre.  Consider [this interview of Sal Khan, founder of the Khan Academy](https://www.educationnext.org/californias-new-math-framework-doesnt-add-up/). Khan finds the kids can do an intricate algebraic operation yet then need a calculator to cmplete it!
+This sometimes has resulted in the bizarre.  Consider [this interview of Sal Khan, founder of the Khan Academy](https://www.educationnext.org/californias-new-math-framework-doesnt-add-up/). Khan finds the kids can do an intricate algebraic operation yet then need a calculator to calculate 3 X 7 to complete it!
 
 The San Francisco Unified School District (SFUSD) has been implementing such "reforms" the last few years, with disastrous results in the statewide math tests: Scores for low-socioeconomic status (low-SES) children declined after the new curriculum was implemented, while scores for low-SES California kids statewide were rising.
 
