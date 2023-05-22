@@ -219,15 +219,15 @@ But I think there is something much more fundamental--a declining willingness to
 
 *K-12 math education*
 
-In the last few years there has been an alarming trend in US K-12 math education, especially in big cities, of diluting curricula in the name of "equity."  The result of course has been that the very children this supposedly is aimed to help, our most vulnerable are harmed instead.  As a lifelong passionate advocate of improving conditions for the underserved in our society, this greatly pains me.
+In the last few years there has been an alarming trend in US K-12 math education, especially in big cities, of diluting curricula in the name of "equity."  The result of course has been that the very children this supposedly is aimed to help, our most vulnerable, are harmed instead.  As a lifelong passionate advocate of improving conditions for the underserved in our society, this greatly pains me.
 
 Two aspects are especially concerning: 
 
-* The push to have students take "data science" instead of Algebra 2.  I
+* The push to have students take "data science" instead of Algebra 2:  I
 put the term in parentheses, because the courses, such as the one used in the LA Unified School District, are very thin.  Even worse, the notion that "data science" could be taught to students who are not familiar with the slope of a line is sadly absurd.
 
-* The de-emphasis on number facts, the 6+9 and 5 X 8 nuts and bolts.
-I've always believed that education should emphasize insight rather than rote memorization, but facility with number facts is crucial for having "a feel" for numbers.
+* The de-emphasis on number facts, the 6+9 and 5 X 8 nuts and bolts:
+I've always believed that education should emphasize insight rather than rote memorization, but facility with number facts is crucial for having "a feel" for numbers--the large and the small, approximate computation and so on. We're producing students who won't know they're being shortchanged by a store cleark!
 
 This sometimes has resulted in the bizarre.  Consider [this interview of Sal Khan, founder of the Khan Academy](https://www.educationnext.org/californias-new-math-framework-doesnt-add-up/). Khan finds the kids can do an intricate algebraic operation yet then need a calculator to cmplete it!
 
