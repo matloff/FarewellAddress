@@ -17,7 +17,7 @@ I'll touch on the following:
     - study at a commuter college
     - grad school
     - on to UCD
-    - move from stat to CS/stat
+    - move from statistics to CS/stat
 * research interests and accomplishments
 * some "recommendations," on subjects such as:
     - teaching of computer science and statistics
