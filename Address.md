@@ -182,7 +182,7 @@ algorithms.
 Programming assignments in an introductory sequence should be
 progressively more elaborate, with progressively less scaffolding.
 The latter is key; I tell my students, "If you've never had the
-experience of sitting down to write code and and thought, 'Hmm...how do
+experience of sitting down to write code and and thought, 'Whoa, how do
 I even start?', then you've never had a chance to develop strong coding
 skills."  Of course, hints should be doled out (sparingly) according to
 individual student needs, but giving outlines in the assignment
