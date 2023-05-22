@@ -213,9 +213,9 @@ Accordingly, I have long advocated a random lottery for school admissions, in wh
 
 *"Kids today"*
 
-Ever since Socrates, teachers have complained about reduced student quality.  One must also treat such claims with a healthy dose of skepticism/
+Ever since Socrates, teachers have complained about reduced student quality.  One must also treat such claims with a healthy dose of skepticism.
 
-But I think there is something much more fundamental--a declining willingness to think about some topic *really intensely*, for an extended period of time. University students have always treated Teaching Assistants asa First Resort rather than a Last one, essentially expecting full solutions from a TA rather than the TA merely pointing them in the right direction. Many instructors implicitly encourage this, which I regard as a serious problem for our economy, society and so on.
+But I think there is something much more fundamental--a declining willingness to think about some topic *really intensely*, for an extended period of time. University students have always treated Teaching Assistants asa First Resort rather than a Last one, essentially expecting full solutions from a TA rather than the TA merely pointing them in the right direction. Many instructors implicitly encourage such attitudes. I regard all of this as a serious problem for our economy, society and so on.
 
 *K-12 math education*
 
