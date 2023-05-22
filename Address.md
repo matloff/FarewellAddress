@@ -109,7 +109,7 @@ machine learning.
 
 My work seems to have had some impact. For example, my data security research, such as
 that published in [ACM TODS](https://dl.acm.org/doi/abs/10.1145/174638.174641),
-led to my being appointed to IFIP WG 11.3, an international group devoted to fostering work 
+led to my being appointed to IFIP WG 11.3, an international UN-sponsored group devoted to fostering work 
 in the field. 
 
 Our work on [polynomials in neural networks](https://arxiv.org/abs/1806.06850)
