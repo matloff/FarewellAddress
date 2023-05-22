@@ -185,7 +185,7 @@ The latter is key; I tell my students, "If you've never had the
 experience of sitting down to write code and and thought, 'Whoa, how do
 I even start?', then you've never had a chance to develop strong coding
 skills."  Of course, hints should be doled out (sparingly) according to
-individual student needs, but giving outlines in the assignment
+individual student needs, but giving detailed outlines in the assignment
 statement should be avoided.
 
 We also need to emphasize the importance of software development support infrastructure, such as use of a debugging tool and knowledge of how search paths work.  It must be emphasized to students that they must not "erase their brains" of this material after the final exam, but instead should make active use of it in their later courses.
