@@ -224,7 +224,7 @@ In the last few years there has been an alarming trend in US K-12 math education
 Two aspects are especially concerning: 
 
 * The push to have students take "data science" instead of Algebra 2:  I
-put the term in parentheses, because the courses, such as the one used in the LA Unified School District, are very thin.  Even worse, the notion that "data science" could be taught to students who are not familiar with the slope of a line is sadly absurd.
+put the term in quotation marks, because the courses, such as the one used in the LA Unified School District, are very thin.  Even worse, the notion that "data science" could be taught to students who are not familiar with the slope of a line is sadly absurd.
 
 * The de-emphasis on number facts, the 6+9 and 5 X 8 nuts and bolts:
 I've always believed that education should emphasize insight rather than rote memorization, but facility with number facts is crucial for having "a feel" for numbers--the large and the small, approximate computation and so on. We're producing students who won't know they're being shortchanged by a store cleark!
