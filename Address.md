@@ -206,7 +206,7 @@ As to the wealth connection, even the critics concede that the effect is [very m
 immigrants](https://www.refinery29.com/en-us/2019/03/228192/stuyvesant-high-school-black-asian-students),
 despite poverty.
 
-Aside from equity issues, a major concern is the ever-escalating "arms race" for admissions to the elite schools.  Ultrafine examinations of grades and test scores makes no sense, and frankly I see a lot of gaming 
+Aside from equity issues, a major concern is the ever-escalating "arms race" for admissions to the elite schools.  Ultrafine scrutiny of grades and test scores makes no sense, and frankly I see a lot of gaming 
 the system.
 
 Accordingly, I have long advocated a random lottery for school admissions, in which a threshold would be set based on test scores and grades, and admission being done randomly from the resulting pool. The threshold would be set at a level deemed necessary for doing good work at that institution. This would ameliorate the "arms race" problem, I believe, and would recognize the numerics are imperfect measures at best.
