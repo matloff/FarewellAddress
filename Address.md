@@ -175,7 +175,7 @@ One of the many negative consequences of large class sizes is that examinations 
 
 We are not serving our lower division programming students well. We are stressing syntax and semantics much more than what should be the focus, which is the building of strong programming muscles.
 
-Thus I recommend Python as a first language, due to it's not being
+Thus I recommend Python as a first language, due to its not being
 strongly-typed.  Variable types are distractions from developing
 algorithms.
 
