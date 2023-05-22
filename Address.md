@@ -162,8 +162,8 @@ learn.  I've been fortunate to win a couple of teaching awards,
 notably the
 [campus-wide Distinguished Teaching
 Award](https://academicsenate.ucdavis.edu/sites/g/files/dgvnsk3876/files/local_resources/docs/committees/award_committees/2017-18/dta-call.pdf). To be sure, it must be said that student evaluations of teaching are sometimes
-out of sync with broader, more nuanced assessment of quality, but I am proud that several of my department
-colleagues have also won that award over the years.
+out of sync with broader, more nuanced assessment of quality, but I am proud that not only I but also several of my department
+colleagues have won that award over the years.
 
 *Class size*
 
