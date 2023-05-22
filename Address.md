@@ -250,10 +250,10 @@ At least in Computer Science, we are in a crisis:
   intradepartmental (as opposed to *inter*departmental) research
   collaboration in CS than, say, in Statistics. 
   
-  In my case, I had hoped
+  In my own case, I had hoped
   to be the "resident statistician" in CS, leading to a lot of
   collaboration with my CS colleagues.  This turned out not to be the
-  case in recent years, and I see rather little joint work among other
+  case--I have not had a paper coauthored with a department colleague since 2009-and I see rather little joint work among other
   colleagues.  
   
   This may be related to the CS emphasis on funded
