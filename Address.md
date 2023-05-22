@@ -18,7 +18,7 @@ I'll touch on the following:
     - grad school
     - on to UCD
     - move from stat to CS/stat
-* reserch interests and accomplishments
+* research interests and accomplishments
 * some "recommendations," on subjects such as:
     - teaching of computer science and statistics
     - the research process and norms
