@@ -143,9 +143,9 @@ major news outlets, print and electronic, and testimony to the US House and Sena
 My writings on more academic issues are known to a smaller audience, but are probably even more 
 controversial. As mentioned above, one example is the [inappropriateness of significance
 testing](https://github.com/matloff/qeML/blob/master/inst/mdFiles/No_P_Values.md). Another, very 
-narrow but the subject of especially bitter debate in the field, is my view that the "Tidyverse" approach to
+narrow but the subject of especially contentious debate in the field, is my view that the "Tidyverse" approach to
 teaching the R programming language to noncoders, actually [makes things more difficult for that
-group](https://github.com/matloff/TidyverseSkeptic). Another example is the [differential privacy approach to data security](https://matloff.wordpress.com/2021/08/04/whats-not-what-in-differential-privacy/); I am a skeptic there too.
+group](https://github.com/matloff/TidyverseSkeptic). Another example is the [differential privacy approach to data security](https://matloff.wordpress.com/2021/08/04/whats-not-what-in-differential-privacy/); I am a skeptic there too, arguing that the theory is elegant but that the approach is unsatisfactory in many practical situations.
 
 # Reflections
 
