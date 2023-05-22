@@ -200,7 +200,7 @@ It's taken as an article of faith among progressives that one must oppose the us
 
 I disagree. I regard myself as a progressive, especially in the areas of race, gender and poverty. I am a supporter of Affirmative Action, and in fact chaired our campus Affirmative Action Committee for a couple of years. But the SAT is a valuable tool, and should be retained.
 
-The SAT is far from perfect, but it does contain important information, only some of which is reflected in college grades.  Other faculty have reported concrete evidence that student quality has deteriorated subsequent to UCD's dropping the SAT/ACT admissions requirement. They've had to make their courses shallower, ceasing to teach certain topics that worked in the past but now today.
+The SAT is far from perfect, but it does contain important information, only some of which is reflected in college grades.  Other faculty have reported concrete evidence that student quality has deteriorated subsequent to UCD's dropping the SAT/ACT admissions requirement. They've had to make their courses shallower, ceasing to teach certain topics that worked in the past but not today.
 
 As to the wealth connection, even the critics concede that the effect is [very mild](https://budgetmodel.wharton.upenn.edu/issues/2021/9/28/is-income-implicit-in-measures-of-student-ability), and defenders of the SAT cite other research and the stellar performance of many East Asian or East European children of [working-class
 immigrants](https://www.refinery29.com/en-us/2019/03/228192/stuyvesant-high-school-black-asian-students),
