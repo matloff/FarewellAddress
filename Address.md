@@ -135,7 +135,7 @@ In the general sociopolitical realm, I've been active in my [support for Affirma
 in school admissions and hiring. But my most significant impact has been on the H-1B work visa, a program that everyone 
 agrees is badly flawed but for which no good political solution has been agreed upon. My work on that issue
 led to an invitation by a major law journal to write on the topic. The [paper](https://repository.law.umich.edu/mjlr/vol36/iss4/5/), 99 pages long with over 300 footnotes, has
-had a major impact, I believe.
+had a major impact, I believe. My view is that the visa and related green card should be greatly liberalized for top talents, but otherwise become more restrictve.
 
 My work on these and various other isssues has led to my being quoted or cited in all
 major news outlets, print and electronic, and testimony to the US House and Senate.
@@ -215,7 +215,7 @@ Accordingly, I have long advocated a random lottery for school admissions, in wh
 
 Ever since Socrates, teachers have complained about reduced student quality.  One must also treat such claims with a healthy dose of skepticism.
 
-But I think there is something much more fundamental--a declining willingness to think about some topic *really intensely*, for an extended period of time. University students have always treated Teaching Assistants asa First Resort rather than a Last one, essentially expecting full solutions from a TA rather than the TA merely pointing them in the right direction. Many instructors implicitly encourage such attitudes. I regard all of this as a serious problem for our economy, society and so on.
+But I think there is something much more fundamental--a declining willingness to think about some topic *really intensely*, for an extended period of time. University students have always treated Teaching Assistants asa First Resort rather than a Last one, essentially expecting full solutions from a TA rather than the TA merely pointing them in the right direction. I don't blame them, as many instructors implicitly encourage such attitudes. I regard all of this as a serious problem for our economy, society and so on.
 
 *K-12 math education*
 
