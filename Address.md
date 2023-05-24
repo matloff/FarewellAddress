@@ -199,7 +199,7 @@ People outside the field are amazed when I tell them that most CS students could
 Though seldom phrased this way, there are two central issues in statistics, variance and bias.
 
 * Variance: How much does an estimator vary from one sample to another? What can we use to gauge this?
-* Bias: I speak here not so much about "dividing by n rather than n-1" in S<sup>2</sup>, and more about model bias. What is the effect of omitting a variable in a statistical analysis? Special case: Conditional vs. unconditional probability.
+* Bias: I speak here not so much about "dividing by n rather than n-1" in S<sup>2</sup>, a very minor issue, and more about model bias. What is the effect of omitting a variable in a statistical analysis (or even in an informal Powerpoint presentation)? Special case: Conditional vs. unconditional probability.
 
 The above should be emphasized in statistics courses of any levels. And:
 
