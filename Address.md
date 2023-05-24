@@ -194,6 +194,19 @@ We also need to emphasize the importance of software development support infrast
 
 People outside the field are amazed when I tell them that most CS students could not answer questions such as "How does a computer boot up?" and "What happens if we run a program with six threads on a four-core machine?" These are not "trade school" questions, but instead rely on fundamental concepts, such as OS being a program, the role of hardware interrupts and so on. I believe that OS and other systems courses should make sure to relate their content to the real world.
 
+*Statistics education*
+
+Though seldom phrased this way, there are two central issues in statistics, variance and bias.
+
+* Variance: How much does an estimator vary from one sample to another? What can we use to gauge this?
+* Bias: I speak here not so much about "dividing by n rather than n-1" in S<sup>2</sup>, and more about model bias. What is the effect of omitting a variable in a statistical analysis? Special case: Conditional vs. unconditional probability.
+
+The above should be emphasized in statistics courses of any levels. And:
+
+* The use of significance testing should be taught only for "historical reasons."
+
+* There is no such thing as a normally distributed random variable in real life. Statistical procedures based on means tend to be robust to the normality assumption, while those based on variances (e.g. random effects models) are not.
+
 *Student admissions issues*
 
 It's taken as an article of faith among progressives that one must oppose the use of standardized tests for school admissions.  If one doesn't toe that line, one is viewed as lacking sympathy for underrepresented minorities. The SAT is correlated with family income, they say, and that is supposed to end the discussion.
