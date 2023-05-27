@@ -207,6 +207,10 @@ The above should be emphasized in statistics courses of any levels. And:
 
 * There is no such thing as a normally distributed random variable in real life. Statistical procedures based on means tend to be robust to the normality assumption, while those based on variances (e.g. random effects models) are not.
 
+*Pass/No Pass grading*
+
+P/NP was originally intended to facilitate students' exploring curricula far beyond their comfort zone. That's long forgotten, with the policy now serving the purpose of allowing students to put in minimal effort in some courses in their own major. This is not only counter to the needs of the established curricula, but also distorts grading scales, say in exam scores. Worse, if a course has collaborative project work, the team members who are taking the course seriously must take on more of the workload. Students should not be allowed to take courses P/NP that are required for their major.
+
 *Student admissions issues*
 
 It's taken as an article of faith among progressives that one must oppose the use of standardized tests for school admissions.  If one doesn't toe that line, one is viewed as lacking sympathy for underrepresented minorities. The SAT is correlated with family income, they say, and that is supposed to end the discussion.
