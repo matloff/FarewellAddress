@@ -215,7 +215,7 @@ P/NP was originally intended to facilitate students' exploring curricula far bey
 
 It's taken as an article of faith among progressives that one must oppose the use of standardized tests for school admissions.  If one doesn't toe that line, one is viewed as lacking sympathy for underrepresented minorities. The SAT is correlated with family income, they say, and that is supposed to end the discussion.
 
-I disagree. I regard myself as a progressive, especially in the areas of race, gender and poverty. I am a supporter of Affirmative Action, and in fact chaired our campus Affirmative Action Committee for a couple of years. But the SAT is a valuable tool, and should be retained.
+I disagree. I regard myself as a progressive, especially in the areas of race, gender and poverty. I am a supporter of Affirmative Action, and in fact chaired our campus Affirmative Action Committee for a couple of years (though I reject the extremism of the zealot supporters of AA who have come to dominate the conversation). But the SAT is a valuable tool, and should be retained.
 
 The SAT is far from perfect, but it does contain important information, only some of which is reflected in college grades.  Other faculty have reported concrete evidence that student quality has deteriorated subsequent to UCD's dropping the SAT/ACT admissions requirement. They've had to make their courses shallower, ceasing to teach certain topics that worked in the past but not today.
 
@@ -223,10 +223,9 @@ As to the wealth connection, even the critics concede that the effect is [very m
 immigrants](https://www.refinery29.com/en-us/2019/03/228192/stuyvesant-high-school-black-asian-students),
 despite poverty.
 
-Aside from equity issues, a major concern is the ever-escalating "arms race" for admissions to the elite schools.  Ultrafine scrutiny of grades and test scores makes no sense, and frankly I see a lot of gaming 
-the system.
+Aside from equity issues, a major concern is the ever-escalating "arms race" for admissions to the elite schools.  Ultrafine scrutiny of grades and test scores makes no sense, and frankly I see a lot of gaming the system.
 
-Accordingly, I have long advocated a random lottery for school admissions, in which a threshold would be set based on test scores and grades, and admission being done randomly from the resulting pool. The threshold would be set at a level deemed necessary for doing good work at that institution. This would ameliorate the "arms race" problem, I believe, and would recognize that numerics are imperfect measures at best.
+Accordingly, I have long advocated a [random lottery](https://www.latimes.com/archives/la-xpm-1995-01-24-me-23530-story.html) for school admissions, in which a threshold would be set based on test scores and grades, and admission being done randomly from the resulting pool. The threshold would be set at a level deemed necessary for doing good work at that institution. Officials at most selective universities have stated that they have many more well-qualified applicants than they have room for; why not choose them randomly? This would ameliorate the "arms race" problem while still recognizing that grades and test scores do have value.
 
 *"Kids today"*
 
